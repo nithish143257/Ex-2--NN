@@ -2,11 +2,13 @@
 <H3>Register no: 212221040115</H3>
 <H3>Date: 13/03/2024</H3>
 <H3>Experiment No. 2 </H3>
+
 ## Implementation of Perceptron for Binary Classification
+
 ## AIM:
 To implement a perceptron for classification using Python<BR>
 
-##EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
