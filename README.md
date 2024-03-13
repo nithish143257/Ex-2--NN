@@ -152,23 +152,23 @@ plt.show()
 
 ## OUTPUT:
 
-#Head Value:
+### Head Value:
 
 ![image](https://github.com/nithish143257/Ex-2--NN/assets/113762839/2758b5dd-eecb-4c4b-8edb-0aa6c8414165)
 
-#Iris Data:
+### Iris Data:
 
 ![image](https://github.com/nithish143257/Ex-2--NN/assets/113762839/3bc22c89-b5c9-4890-ac54-4a4bdc061375)
 
-#Scatter plot:
+### Scatter plot:
 
 ![image](https://github.com/nithish143257/Ex-2--NN/assets/113762839/fae2d20d-a08b-437f-9331-6816b653cee3)
 
-#Error:
+### Error:
 
 ![image](https://github.com/nithish143257/Ex-2--NN/assets/113762839/175e864f-9637-4413-b571-e96977d9109f)
 
-#Accuracy:
+### Accuracy:
 
 ![image](https://github.com/nithish143257/Ex-2--NN/assets/113762839/516f595e-da70-4497-9c30-13d04e630673)
 
