@@ -149,7 +149,8 @@ plt.show()
 ```
 
 # OUTPUT:
-![image](https://github.com/nithish143257/Ex-2--NN/assets/113762839/6ea70355-fa68-4f22-93a9-0edf3506da4f)
+
+![image](https://github.com/nithish143257/Ex-2--NN/assets/113762839/2758b5dd-eecb-4c4b-8edb-0aa6c8414165)
 
 ![image](https://github.com/nithish143257/Ex-2--NN/assets/113762839/3bc22c89-b5c9-4890-ac54-4a4bdc061375)
 
